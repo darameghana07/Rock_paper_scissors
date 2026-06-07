@@ -57,7 +57,7 @@ The player competes against the computer, which generates a random move every ro
 
 Main Interface
 
-![Rock paper scissors](image1.png)
+![Rock paper scissors](images/image1.png)
 
 
 Gameplay
@@ -76,11 +76,11 @@ Reset Score
 
 
 
- Demo
- --------------------------------------------------------------------------------------------------------------------------------
+Demo
+-------------------------------------------------------------------------------------------------------------------------------------
 
-Watch the complete demo to see the project in action.[Watch the Demo on LinkedIn]
-(https://www.linkedin.com/posts/darameghana_rock-paper-scissors-project-overview-ugcPost-7469322612402278400-4Mut/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF_WDeEBC0fVi7tVEh3ksFR2CTX--PYKJdo)
+Watch the complete demo to see the project in action.[Watch the Demo on
+LinkedIn](https://www.linkedin.com/posts/darameghana_rock-paper-scissors-project-overview-ugcPost-7469322612402278400-4Mut/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF_WDeEBC0fVi7tVEh3ksFR2CTX--PYKJdo)
 
 
 
