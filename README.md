@@ -57,7 +57,7 @@ The player competes against the computer, which generates a random move every ro
 
 Main Interface
 
-![Rock paper scissors](images/image1.png)
+![Rock paper scissors](Images/image1.png)
 
 
 Gameplay
